@@ -1,0 +1,16 @@
+h1{
+  color: #498fb2;
+  border-color: rgb(255,100,0);
+  border-width: 2px;
+  border-style: dashed;
+}
+body{
+  /*background: url(https://cdn.theatlantic.com/assets/media/img/mt/2015/10/Cygnus_v3_BandW/lead_960.jpg?1444687096);*/
+  background: #72b24a;
+}
+li{
+  color: green;
+}
+h4{
+  background: rgb(255,100,0);
+}
